@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1232
+=======
+init hello
+>>>>>>> b9955fe (init hello)
